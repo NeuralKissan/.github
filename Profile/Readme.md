@@ -1,5 +1,7 @@
 # Neural Kissan
-# Template Stuff
+
+![Hub](https://github.com/NeuralKissan/.github/assets/55994011/18902b5a-93c1-4de8-92e7-f73985a20503)
+
 
 Neural Kissan is an organization that focuses on leveraging the latest advances in artificial intelligence and machine learning to improve the efficiency and productivity of agriculture. Our team of experts is dedicated to developing cutting-edge technology solutions that enable farmers to make data-driven decisions and optimize their crop yields.
 
